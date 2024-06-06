@@ -1,2 +1,2 @@
 # Landing-page-of-Industrial-safety
-Hujef
+In this Web page i design a landing page of Industrial-safety in this page we use HTML & CSS properties .
